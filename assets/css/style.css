@@ -1,3 +1,25 @@
 header{
     padding: 20px;
 }
+body {
+  background-image: url(../img/fondo.webp); /* ejemplo */
+  background-size: cover;
+  background-position: center;
+
+}
+.uno{
+    display: block;
+    margin: 25px auto;
+
+}
+h2{
+    font-size: 50px;
+}
+.card{
+    background-image: url(../img/fondo-carta.png);
+    background-size: cover;
+    background-position: center;
+}
+.titulo{
+    width: 100%;
+}
