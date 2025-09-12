@@ -23,3 +23,7 @@ h2{
 .titulo{
     width: 100%;
 }
+label{
+    color: white;
+    font-weight: bold;
+}
